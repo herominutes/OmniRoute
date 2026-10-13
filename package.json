@@ -412,6 +412,6 @@
     "concurrently": {
       "shell-quote": "^1.9.0"
     },
-    "adm-zip": "^0.6.0"
+    "adm-zip": "^0.6.1"
   }
 }
